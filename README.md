@@ -1,5 +1,5 @@
 # Robot
-Programmed a robot, that I built, using a micro controller and C.
+Programmed a robot, that I built, using a micro controller and C in my Embedded Systems class.
 
 This robot was hand built and required soldering, which is something I learned from this project. I have included all the files I used to make this robot function. Each file has configurations for the Tiva™ TM4C123GH6PM Microcontroller that is used to program the robot. 
 
